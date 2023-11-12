@@ -21,10 +21,7 @@ A IoT (Internet das Coisas) revolucionou a maneira como interagimos com o mundo,
 
 As lixeiras podem monitorar automaticamente seu nível de enchimento, além de rastrear os materiais contidos dentro delas, graças aos sensores embutidos. Essa inovação permite um gerenciamento eficiente da coleta de lixo, reduzindo a frequência de caminhões de lixo nas ruas e, consequentemente, economizando recursos. Além disso, a capacidade de monitorar os tipos de materiais facilita a triagem e reciclagem adequada, contribuindo ainda mais para a sustentabilidade ambiental.
 
-<div align="center">
-<img src="img/contagem-produto.jpg">
 
-</div>
 
 A IoT não apenas transforma a gestão de resíduos, mas também serve como a espinha dorsal das cidades inteligentes. Ela impulsiona a eficiência de serviços públicos, transporte, sustentabilidade e muito mais, tornando os ambientes urbanos mais habitáveis e sustentáveis.
 
@@ -46,9 +43,8 @@ Por fim, os codigos de barra enviados para plataforma tago exibe os materiais qu
 
 Essa combinação de hardware e plataforma IoT nos permitiu criar um sistema altamente eficiente para monitorar e registrar os materiais presentes na lixeira, contribuindo significativamente para a gestão inteligente de resíduos em nossas lixeiras e promovendo práticas mais sustentáveis.
 
-
 <div align="center">
-<img src="img/arquitetura.jpg">
+<img src="img/contagem-produto.jpg">
 
 </div>
 ___
